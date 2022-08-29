@@ -1,5 +1,5 @@
 body {
-    background: #000000;
+    background: #eeeded;
 }
 
 .container {
@@ -12,7 +12,7 @@ body {
     box-sizing: border-box;
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: #000;
+    background-color: #FFF;
 }
 
 .card:hover {
